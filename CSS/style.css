@@ -1,0 +1,76 @@
+
+
+			body{
+				background-color: yellow;
+			}
+			h1{
+				color: darkgrey;
+			}
+			h2{
+				text text-decoration: underline;
+			}
+			h3{
+				color: hotpink;
+			}
+			#anilist{
+				color: purple;
+			}
+			.favlist{
+				text text-decoration: underline;
+			}
+			#para1{
+				color: orangered;
+			}
+			a{
+				color: purple;
+			}
+			p{
+				font-size: large;
+			}
+			#div1{
+				background-color: blue;
+				width: 200px; height: 2oopx;
+			}
+			#div2{
+				background-color: orange;
+			}
+			#div3{
+				background-color: green;
+			}
+			#div4{
+				background-color: teal;
+			}
+			#div5{
+				background-color: fuchsia;
+			}
+			#div6{
+				background-color: darkred;
+			}
+
+			form{
+				padding: 15px;
+				background-color: lightskyblue;
+				font-style: italic;
+				border-style: solid;
+				font-weight: 900px;
+			}
+			input[type=button] {
+				color: black;
+				background-color: rgb(0, 200, 0);
+				padding: 5px;
+			}
+			input[type=button]:hover{
+				border: solid;
+				background-color: rgb(0, 230, 0);
+			}
+			input[type=text];focus {
+				background-color: rgb(0, 330, 0);
+				color: black;
+				width: 100%;
+				transition: 2%;
+			}
+			#div3,#div4{position: relative;
+			}
+			#div5,#DIV6{position: static;
+			}
+			
